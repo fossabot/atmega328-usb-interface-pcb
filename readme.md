@@ -21,4 +21,9 @@ using a USB connection.
 ![Power Sheet](images/power.png)
 ![MCU Sheet](images/MCU.png)
 ![USB Sheet](images/USB.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fatmega328-usb-interface-pcb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fatmega328-usb-interface-pcb?ref=badge_shield)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fatmega328-usb-interface-pcb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fatmega328-usb-interface-pcb?ref=badge_large)
